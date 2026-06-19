@@ -9,7 +9,7 @@
 - Evaluated BioMistral and LLaMA 3 for biomedical question answering
 - Enabled natural language interaction with proteomics datasets
 
-- ## 💡 Example Queries
+ ## 💡 Example Queries
 
 - What is Study PDC000251?
 - What disease types are associated with PDC000220?
@@ -19,7 +19,7 @@
 - Are there any kidney cancer studies in PDC?
 - What publications are associated with this study?
 
-- ## 🔄 RAG Workflow
+## 🔄 RAG Workflow
 
 1. User submits a natural language query.
 2. Query is converted into vector embeddings.
@@ -29,7 +29,7 @@
 6. The LLM generates a grounded response.
 7. The answer is returned to the user.
 
-8. ## 📈 Results
+## 📈 Results
 
 The chatbot successfully answered study-level questions involving:
 
@@ -50,7 +50,7 @@ The RAG pipeline demonstrated strong performance on fact-based retrieval tasks w
 - Implement conversation memory
 - Fine-tune biomedical language models
 
-- ## 🏆 Skills Demonstrated
+## 🏆 Skills Demonstrated
 
 - Generative AI
 - Retrieval-Augmented Generation (RAG)
