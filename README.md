@@ -1,1 +1,1 @@
-# RAG-based AI Chatbot for Proteomics Data (PDC)
+# 🧬 RAG-based AI Chatbot for Proteomics Data (PDC)
